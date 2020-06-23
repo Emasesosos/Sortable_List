@@ -1,5 +1,6 @@
 // Fuentes
-$fuentePrincipal: 'Lato', sans-serif;
+$fuentePrincipal: 'Lato',
+sans-serif;
 // Tamaño de Media Queries
 $telefono: 480px;
 $tablet: 768px;
@@ -13,9 +14,12 @@ $oscuro: #000000;
 $claro: #FFFFFF;
 $income: #2ECC71;
 $expense: #C0392B;
-$boton: #9C88FF; 
+$boton: #9C88FF;
 $liList: #333333;
 $deleteBtn: #e74c3c;
 $fondoBtn: darksalmon;
+$borderColor: #E3E5E4;
+$backgroundColor: #C3C7CA;
+$textColor: #34444F;
 // Box Shadow
-$boxShadow: 0 20px 20px rgba(252,169,169,0.6);
+$boxShadow: 0 20px 20px rgba(252, 169, 169, 0.6);
